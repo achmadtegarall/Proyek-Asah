@@ -7,3 +7,4 @@ Progres Proyek Dicoding Asah 2025
 5. Implementasi Seluruh Materi (Belajar Pemrograman JavaScript)
 6. Implementasi Aplikasi Todoapps (Belajar Membuat Front-End Web untuk Pemula)
 7. Proyek Akhir Aplikasi BookShelf (Belajar Membuat Front-End Web untuk Pemula)
+8. Proyek Aplikasi Pencatatan Pribadi (Belajar Membuat Aplikasi Web dengan React)
